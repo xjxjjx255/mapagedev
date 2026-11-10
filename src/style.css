@@ -1,0 +1,10 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-primaire: #0f766e;
+    --color-fond: #f8fafc;
+    --color-texte: #0f172a;
+    --font-titre: 'Space Grotesk', sans-serif;
+    --font-texte: 'Atkinson Hyperlegible', sans-serif;
+}
+
